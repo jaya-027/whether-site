@@ -1,0 +1,24 @@
+
+.tc{
+  color: black;
+}
+.fame{
+    position:absolute;
+    top:10rem;
+
+}.container {
+    margin-top: 1.2rem;
+    /* position:absolute; */
+  }
+  
+  .container input,
+  .container ::-webkit-input-placeholder {
+    color: white !important;
+  }
+  .container input:focus {
+    background-color: transparent;
+    box-shadow: none !important;
+    border: none;
+    border-bottom: 2px solid tomato;
+  }
+  
